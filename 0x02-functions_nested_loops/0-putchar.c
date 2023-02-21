@@ -1,11 +1,21 @@
-#include <stdio.h>
-#include <main.h>
+#include "main.h"
+
 /**
- * main - c gateway
- * more commintes here
- * Return: 0 shows succes
+ * main - Entry point
+ * commint here
+ * Return: Always returns 0
+ *
  */
 int main(void)
 {
-	putchar("Hello from Putchar\n")
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return (0);
 }
