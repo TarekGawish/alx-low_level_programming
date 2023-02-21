@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * commint here
- * Return: Always returns 0
+ * main - entry point
+ * print _putchar
  *
+ * Return: 0 Always
  */
 int main(void)
 {
